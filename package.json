@@ -4,7 +4,8 @@
   "author": "Pete Skelly",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.8.0"
+    "jshint": "^2.8.0",
+    "tslint": "^3.2.1"
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint hello.js"
